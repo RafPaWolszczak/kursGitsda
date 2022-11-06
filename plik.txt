@@ -1,6 +1,3 @@
-
-nowa eksperymentalna funkcjonalnoc
-
 Zmiana w pliku.
 
 Dupcia dupcia zmiana zawartości pliku
